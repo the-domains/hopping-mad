@@ -1,0 +1,28 @@
+name: Hopping Mad
+favicon: null
+layout_spectrum: 0.5634855020325631
+typography_spectrum: 0.5467676180414855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.11034057848155499
+  lightness: 0.5139840531628579
+  saturation: 0.036583418026566505
+  rhythmicContrast: 0.5943832651246339
+purpose: []
