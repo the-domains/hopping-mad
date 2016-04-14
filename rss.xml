@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hopping Mad]]></title>
-        <description><![CDATA[Hopping Mad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[My First very intelligent Website]]></title>
+        <description><![CDATA[My First very intelligent Website]]></description>
+        <link>https://thegrid.ai/hopping-mad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 19:37:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 19:48:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hopping-mad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b21bd8-ca76-4e62-aa45-5a2079221f40.jpg">]]></description>
+            <link>https://thegrid.ai/hopping-mad/ee40a619-36eb-427c-876c-28bf029ce45a/index.html</link>
+            <guid isPermaLink="false">ee40a619-36eb-427c-876c-28bf029ce45a</guid>
+            <pubDate>Thu, 14 Apr 2016 19:48:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wow? Top or flop!?]]></title>
             <description><![CDATA[<article><h1>Wow? Top or flop!?</h1><p>Heut ist der Tag Null – mal sehen, was mit dieser Website passiert</p></article>]]></description>
-            <link>undefinedwow-top-or-flop/index.html</link>
+            <link>https://thegrid.ai/hopping-mad/wow-top-or-flop/index.html</link>
             <guid isPermaLink="false">c479808c-fb39-4573-afc4-f3e0018d4fb6</guid>
             <pubDate>Thu, 14 Apr 2016 19:37:08 GMT</pubDate>
         </item>
