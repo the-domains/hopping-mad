@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hopping Mad]]></title>
+        <description><![CDATA[Hopping Mad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 19:37:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wow? Top or flop!?]]></title>
+            <description><![CDATA[<article><h1>Wow? Top or flop!?</h1><p>Heut ist der Tag Null – mal sehen, was mit dieser Website passiert</p></article>]]></description>
+            <link>undefinedwow-top-or-flop/index.html</link>
+            <guid isPermaLink="false">c479808c-fb39-4573-afc4-f3e0018d4fb6</guid>
+            <pubDate>Thu, 14 Apr 2016 19:37:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
