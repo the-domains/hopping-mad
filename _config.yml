@@ -1,29 +1,41 @@
-name: Hopping Mad
-favicon: null
-layout_spectrum: 0.5634855020325631
-typography_spectrum: 0.21635
 title: My First very intelligent Website
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9375
+  brandStrength: 0.75
+  rhythmicContrast: 0.75
   brandColors:
     - '#49484e'
     - '#8c8b91'
     - '#000100'
     - '#047c59'
     - '#c6c3cc'
-  brandStrength: 0.75
   lightness: 0.1875
-  saturation: 0.9375
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Hopping Mad
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8297873
+layout_spectrum: 0.07659575
