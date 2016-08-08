@@ -4,8 +4,15 @@
         <description><![CDATA[My First very intelligent Website]]></description>
         <link>https://thegrid.ai/hopping-mad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 19:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 21:04:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hopping-mad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Citadel brings your site to life with integrated support for video backgrounds, and a clean design that puts your content at center stage.</p><img src="http://rocketthemedemo-18af.kxcdn.com/live/joomla/citadel/images/rocketlauncher/home/above/img-01.jpg"></article>]]></description>
+            <link>http://demo.rockettheme.com/live/joomla/citadel/?presets=preset5</link>
+            <guid isPermaLink="false">fe79c8e1-cbbd-44a3-bb12-cc1ed37c4a7b</guid>
+            <pubDate>Mon, 08 Aug 2016 21:03:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b21bd8-ca76-4e62-aa45-5a2079221f40.jpg">]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Wow? Top or flop!?]]></title>
-            <description><![CDATA[<article><h1>Wow? Top or flop!?</h1><p>Heut ist der Tag Null – mal sehen, was mit dieser Website passiert</p></article>]]></description>
+            <description><![CDATA[<p>Heut ist der Tag Null – mal sehen, was mit dieser Website passiert</p>]]></description>
             <link>https://thegrid.ai/hopping-mad/wow-top-or-flop/index.html</link>
             <guid isPermaLink="false">c479808c-fb39-4573-afc4-f3e0018d4fb6</guid>
             <pubDate>Thu, 14 Apr 2016 19:37:08 GMT</pubDate>
